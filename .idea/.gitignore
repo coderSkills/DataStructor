@@ -3,3 +3,5 @@
 /workspace.xml
 /build
 /.gradle
+/gradlew
+/gradlew.bat
